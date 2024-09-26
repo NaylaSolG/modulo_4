@@ -6,10 +6,15 @@
 
 # Introducción al aprendizaje automático
 
-## Docentes
+## Docentes Comisión A:
 
 -   José Sánchez
--   Tomás Maguire
+-   Santiago Nuñez Rimedio
+
+## Docentes Comisión B:
+
+-   Magalí Rodrigues Pires
+-   Nayla Sol Garcilazo
 
 # Presentación
 
